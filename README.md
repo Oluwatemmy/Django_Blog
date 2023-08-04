@@ -1,6 +1,6 @@
 # Django CRUD Blog Application
 
-![Blog App](https://github.com/Oluwatemmy/Django_Blog/blob/main/media/images/blog_app_screenshot) <!-- Add a screenshot or an image illustrating your blog application -->
+![Blog App](https://github.com/Oluwatemmy/Django_Blog/blob/main/media/images/blog_app_screenshot.png) <!-- Add a screenshot or an image illustrating your blog application -->
 
 ## Description
 
